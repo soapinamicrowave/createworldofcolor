@@ -1,4 +1,4 @@
-![Minecraft logo style, reading CREATE on the top line and WORLD OF COLOR on the bottom](https://cdn.modrinth.com/data/cached_images/b4bb33c7ee9934071e6408d5635c94e6edd28f07.png)
+![Minecraft logo style, reading CREATE on the top line and WORLD OF COLOR on the bottom](https://cdn.modrinth.com/data/cached_images/9c87876f8df31892218d9175236a596cac3550e2.png)
 # **Create: World of Color**
 
 ...is a resource pack designed to emulate what [Create](https://modrinth.com/mod/create) would look like in Minecraft's Programmer Art style.
