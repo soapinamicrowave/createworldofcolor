@@ -1,0 +1,82 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"2": "create:item/goggles_model"
+	},
+	"elements": [
+		{
+			"name": "strap",
+			"from": [3.6, 0, 4],
+			"to": [12.2, 8, 12.55],
+			"faces": {
+				"east": {"uv": [8, 0, 16, 8], "texture": "#2"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#2"},
+				"west": {"uv": [8, 8, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [9, 6, 3.4],
+			"to": [13, 10, 3.4],
+			"rotation": {"angle": 0, "axis": "x", "origin": [9, 6, 3.75]},
+			"faces": {
+				"north": {"uv": [0, 12, 4, 16], "texture": "#2"},
+				"south": {"uv": [0, 12, 4, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [6, 5, 3.45],
+			"to": [10, 9, 3.45],
+			"rotation": {"angle": 0, "axis": "x", "origin": [6, 5, 3.75]},
+			"faces": {
+				"north": {"uv": [4, 8, 8, 12], "texture": "#2"}
+			}
+		},
+		{
+			"from": [3, 6, 3.4],
+			"to": [7, 10, 3.4],
+			"rotation": {"angle": 0, "axis": "x", "origin": [3, 6, 3.75]},
+			"faces": {
+				"north": {"uv": [0, 12, 4, 16], "texture": "#2"},
+				"south": {"uv": [0, 12, 4, 16], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 1.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [21, -180, 0],
+			"translation": [0, 3, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"translation": [0, 5.75, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, 1.5, 4]
+		}
+	}
+}
