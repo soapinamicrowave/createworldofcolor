@@ -1,0 +1,9 @@
+{
+    id: "graceCwoc",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        goldenDays: false,
+        unCasing: false
+    }
+}

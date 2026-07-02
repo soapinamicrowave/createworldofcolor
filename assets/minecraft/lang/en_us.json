@@ -1,0 +1,7 @@
+{
+    "rpo.graceCwoc": "Create: World of Color",
+    "rpo.graceCwoc.goldenDays": "Golden Days",
+    "rpo.graceCwoc.goldenDays.tooltip": "Enables alternative textures for Golden Days support",
+    "rpo.graceCwoc.unCasing": "Unconnected Casings",
+    "rpo.graceCwoc.unCasing.tooltip": "Disables connected textures for Casings (Minor issues with Mechanical Crafters)"
+}
